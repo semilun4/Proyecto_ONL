@@ -18,3 +18,10 @@ el costo computacional.
 Por ser un problema de optimización, es evidente que la finalidad es que encontremos el óptimo
 de la función, dicho de otro modo, el mínimo global si es que existe. Cabe resaltar, que cada
 algoritmo arrojará la mejor aproximación a dicho punto.
+
+
+# Contenido
+
+- [Resumen del proyecto](https://github.com/semilun4/Proyecto_ONL/blob/main/Proyecto_final_ONL.pdf)
+- [Programas](https://github.com/semilun4/Proyecto_ONL/tree/main/Programas)
+  - 
