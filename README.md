@@ -3,7 +3,7 @@
 En optimización no lineal, estudiamos métodos que encuentran el conjunto de valores para obtener la mejor solución o la más aproximada, la cual puede estar sujeta a una serie de restricciones, donde una o más variables incluidas es no lineal. 
 
 En el presente proyecto, nos centraremos en aquellos problemas que no tienen restricciones y
-compararemos la eficacia de los métodos vistos, que son los siguientes
+compararemos la eficacia de los métodos vistos en el curso de Optimización no Lineal de la profesora Adriana Lara López, que son los siguientes
 1. Método de Máxima Pendiente (Cauchy)
 2. Condición de Armijo
 3. Método de Newton
