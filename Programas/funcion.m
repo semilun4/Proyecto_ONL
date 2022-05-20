@@ -3,8 +3,6 @@
 % Nombre del archivo: funcion.m
 % García de la Cruz Semiramís
 % De la Torre Ortiz Bibiana
-% Bautista Lopez Sara
-% Nicolas Palacion Daniel Isai 
 %
 % Definición: [F] = funcion(x)
 % 
