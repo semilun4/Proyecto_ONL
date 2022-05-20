@@ -24,4 +24,6 @@ algoritmo arrojará la mejor aproximación a dicho punto.
 
 - [Resumen del proyecto](https://github.com/semilun4/Proyecto_ONL/blob/main/Proyecto_final_ONL.pdf)
 - [Programas](https://github.com/semilun4/Proyecto_ONL/tree/main/Programas)
-  - 
+- [Ejemplo de uso](https://github.com/semilun4/Proyecto_ONL/blob/main/Programas/funcion.m) 
+
+Todos los programas cuentan con la documentación necesaria para su uso.
